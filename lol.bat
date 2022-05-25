@@ -1,4 +1,4 @@
 @echo off
-clear
+cls
 echo lol
 pause
